@@ -1,0 +1,8 @@
+// const tenantId = "b0447b39-23df-4d16-90b0-2e21dceff373";
+// const clientId = "3a5106d1-fc20-4b83-ac19-24cbce082a27";
+// const clientSecret = "vPB8Q~iLYkSYmDr21iBiG.01ZxZcsZtHaoAuaccd";
+
+// process.env.AZURE_CLIENT_ID = "3a5106d1-fc20-4b83-ac19-24cbce082a27";
+// process.env.AZURE_CLIENT_SECRET = "vPB8Q~iLYkSYmDr21iBiG.01ZxZcsZtHaoAuaccd";
+// process.env.AZURE_TENANT_ID = "b0447b39-23df-4d16-90b0-2e21dceff373";
+// const subscriptionId = "8d0c0182-01fe-4076-8fe5-bab10a600338"
